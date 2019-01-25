@@ -53,6 +53,7 @@ p {
 
 .navbar {
   padding: 0 0 4.5rem;
+  position: fixed;
 }
 
 .nav-item {
